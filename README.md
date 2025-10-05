@@ -96,7 +96,3 @@ npm run dev
 **User:** name, email, password, categories  
 **Article:** heading, picture, author, website_url, description, categories, publishedAt
 
-
----
-
-**Made with ❤️ by [Your Name]**
